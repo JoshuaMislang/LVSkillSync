@@ -1,0 +1,11 @@
+{
+  "name": "LVSkillSync Desktop",
+  "description": "Connecting Skills with Opportunities - A mobile-first functional prototype for freelancers and clients. 2.0",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
